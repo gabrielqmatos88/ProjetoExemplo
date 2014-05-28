@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProjetoExemplo</string>
+    <string name="hello_world">Olá :D</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Apelido</string>
+    <string name="hintLogin">Digite seu login</string>
+    <string name="hintSenha">Digite sua senha</string>
+
+</resources>
